@@ -1,0 +1,5 @@
+C:/Users/tanis/Documents/CYRK3/build/CMakeFiles/syrk_lib.dir
+C:/Users/tanis/Documents/CYRK3/build/CMakeFiles/test_syrk.dir
+C:/Users/tanis/Documents/CYRK3/build/CMakeFiles/benchmark_syrk.dir
+C:/Users/tanis/Documents/CYRK3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/tanis/Documents/CYRK3/build/CMakeFiles/ZERO_CHECK.dir

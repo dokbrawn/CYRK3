@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tanis\Documents\CYRK3\build\CMakeFiles\131f9a2ac49d064869e6d64d3d3b7b94\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{693E57DC-309E-3DFC-AFA6-EE36D8FF76AF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

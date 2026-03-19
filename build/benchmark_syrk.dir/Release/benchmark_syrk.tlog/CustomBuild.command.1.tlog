@@ -1,0 +1,10 @@
+^C:\USERS\TANIS\DOCUMENTS\CYRK3\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/tanis/Documents/CYRK3 -BC:/Users/tanis/Documents/CYRK3/build --check-stamp-file C:/Users/tanis/Documents/CYRK3/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
